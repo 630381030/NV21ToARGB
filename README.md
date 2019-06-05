@@ -11,3 +11,7 @@
 ```sh
 ffplay -f rawvideo -pixel_format bgra -s 640x480 640x480.argb
 ```
+
+### 其它
+
+- 编译libyuv [https://www.jianshu.com/p/9c4b88d93d7d](https://www.jianshu.com/p/9c4b88d93d7d)
